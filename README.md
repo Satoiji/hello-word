@@ -1,2 +1,3 @@
 # hello-word
-just another repository :)
+Nothing much to do
+just practicing how to use github
